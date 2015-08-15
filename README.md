@@ -1,6 +1,11 @@
 # tool-list
 This project collect all tools on every domain
 
+## Desktop
+
+#### Sync
+- [osync](https://github.com/deajan/osync) - A robust two way (bidirectional) file sync script based on rsync with fault tolerance
+
 ## Mobile
 
 ### UI Framework
