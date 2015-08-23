@@ -7,6 +7,9 @@ This project collect all tools on every domain
 ## Communication
 - [Gitter](https://gitter.im/) - Get unlimited public rooms and one-to-one chats, free forever. Private team plans start from $5 per user per month. No credit card required.
 
+## Terminal
+- [Babun](http://babun.github.io/) - a Windows shell you will love!
+
 ## Web Terminal
 - [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 
