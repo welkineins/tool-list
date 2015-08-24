@@ -19,3 +19,6 @@ This project collect all tools on every domain
 ## Workflow
 [Pomodone](http://pomodoneapp.com/) - Pomodone is the easiest way to track your workflow using Pomodoro technique, on top of your current task management service.
 
+## Proxy
+[Lantern](https://getlantern.org/) - Lantern is a free desktop application that delivers fast, reliable and secure access to the open Internet.
+
