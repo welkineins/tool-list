@@ -27,3 +27,6 @@ This project collect all tools on every domain
 
 ## IT Management
 - [Consul](https://www.consul.io/) - Service discovery and configuration made easy. Distributed, highly available, and datacenter-aware.
+
+## Continuous Integration
+- [Bazel](http://bazel.io/) - Bazel is a build tool from Google that builds code quickly and reliably. We use it to build the majority of Google's software, and it's specifically designed to handle our huge source code repositories and our testing and release requirements.
