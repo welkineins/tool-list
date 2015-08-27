@@ -25,3 +25,5 @@ This project collect all tools on every domain
 ## Proxy
 - [Lantern](https://getlantern.org/) - Lantern is a free desktop application that delivers fast, reliable and secure access to the open Internet.
 
+## IT Management
+- [Consul](https://www.consul.io/) - Service discovery and configuration made easy. Distributed, highly available, and datacenter-aware.
