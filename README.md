@@ -30,3 +30,6 @@ This project collect all tools on every domain
 
 ## Continuous Integration
 - [Bazel](http://bazel.io/) - Bazel is a build tool from Google that builds code quickly and reliably. We use it to build the majority of Google's software, and it's specifically designed to handle our huge source code repositories and our testing and release requirements.
+
+## Message Queue
+- [RabbitMQ](https://www.rabbitmq.com/) - RabbitMQ is a messaging broker - an intermediary for messaging. It gives your applications a common platform to send and receive messages, and your messages a safe place to live until received.
