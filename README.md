@@ -50,3 +50,4 @@ This project collect all tools on every domain
 
 ## Automation
 - [Ansible](http://www.ansible.com/home) - Deploy apps. Manage systems. Crush complexity. Ansible is a powerful automation tool that you can learn quickly.
+- [Vagrant](https://www.vagrantup.com/) - Create and configure lightweight, reproducible, and portable development environments.
