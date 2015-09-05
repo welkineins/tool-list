@@ -47,3 +47,6 @@ This project collect all tools on every domain
 
 ## Text Editor
 - [StackEditor](https://stackedit.io/) - StackEdit provides very handy formatting buttons and shortcuts, thanks to PageDown, the WYSIWYG-style markdown editor used by Stack Overflow.
+
+## Automation
+- [Ansible](http://www.ansible.com/home) - Deploy apps. Manage systems. Crush complexity. Ansible is a powerful automation tool that you can learn quickly.
