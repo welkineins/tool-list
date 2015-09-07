@@ -51,3 +51,8 @@ This project collect all tools on every domain
 ## Automation
 - [Ansible](http://www.ansible.com/home) - Deploy apps. Manage systems. Crush complexity. Ansible is a powerful automation tool that you can learn quickly.
 - [Vagrant](https://www.vagrantup.com/) - Create and configure lightweight, reproducible, and portable development environments.
+
+## Presentation/Slide
+- [Prezi](https://prezi.com/) - Prezi is cloud-based, meaning you can present from your browser, desktop, iPad, iPhone, or Android device and always have the latest version of your work at your fingertips. Create or edit on the go, then auto-sync across all your devices with ease.
+- [slides](https://slides.com/) - Slides enables anyone with a web browser to easily create, present and share beautiful presentations for free. 
+- [Slidify](http://slidify.org/index.html) - Slidify helps you create and publish beautiful HTML5 presentations from RMarkdown
