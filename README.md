@@ -1,11 +1,8 @@
 # Tool/Service List
-This project collect all tools on every domain
+This project collect all tools on every domain. All the tools or service here are open sourced or providing free plan to use.
 
 ## Sync
 - [Osync](https://github.com/deajan/osync) - A robust two way (bidirectional) file sync script based on rsync with fault tolerance
-
-## Communication
-- [Gitter](https://gitter.im/) - Get unlimited public rooms and one-to-one chats, free forever. Private team plans start from $5 per user per month. No credit card required.
 
 ## Terminal
 - [Babun](http://babun.github.io/) - a Windows shell you will love!
@@ -64,3 +61,12 @@ This project collect all tools on every domain
 ## Service Monitoring
 - [Prometheus](http://prometheus.io/) - An open-source service monitoring system and time series database.
 - [Sentry](https://getsentry.com/welcome/) - Sentry surfaces these errors, helps you gauge severity and frequency, and then gives you the information necessary to fix them quickly.
+
+## Chat
+- [Echoplexus](https://echoplex.us/) - Echoplexus is an anonymous, web-based, IRC-like chatting platform that makes its best effort to respect your privacy. It allows you to create public or private channels. You can secure a pseudonym for linkable anonymity, and secure it with PGP.
+- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - Have your own Slack like online chat, built with Meteor.
+- [Let's Chat](https://sdelements.github.io/lets-chat/) - Let's Chat is a persistent messaging application that runs on Node.js and MongoDB. It's designed to be easily deployable and fits well with small, intimate teams. It's free (MIT licensed) and ships with killer features such as LDAP/Kerberos authentication, a REST-like API and XMPP support.
+- [Mattermost](http://www.mattermost.org/) - Mattermost is an open source, on-prem Slack-alternative
+- [Unison](https://www.unison.com/pricing) - Unison is a much simpler way to do complex teamwork with distributed staff. Fast, private rooms, with instant awareness of where people are and what they're working on. 1:1 chat with text, voice and video. Integrations to plug in your key data like CRM.
+- [ChatGrape](https://chatgrape.com/) - "Grape me that file!" The world's smartest business chat that seamlessly connects your team and your company data.
+- [Gitter](https://gitter.im/) - Get unlimited public rooms and one-to-one chats, free forever. Private team plans start from $5 per user per month. No credit card required.
