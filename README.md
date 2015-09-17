@@ -21,6 +21,7 @@ This project collect all tools on every domain. All the tools or service here ar
 
 ## Proxy
 - [Lantern](https://getlantern.org/) - Lantern is a free desktop application that delivers fast, reliable and secure access to the open Internet.
+- [v2ray-core](https://github.com/v2ray/v2ray-core) - Building blocks for developing proxy servers in golang. V2Ray 是一個翻牆工具包，用於簡化和復用其它翻牆工具，加速二次開發。
 
 ## IT Management
 - [Consul](https://www.consul.io/) - Service discovery and configuration made easy. Distributed, highly available, and datacenter-aware.
