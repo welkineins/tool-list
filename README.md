@@ -76,5 +76,8 @@ This project collect all tools on every domain. All the tools or service here ar
 - [ChatGrape](https://chatgrape.com/) - "Grape me that file!" The world's smartest business chat that seamlessly connects your team and your company data.
 - [Gitter](https://gitter.im/) - Get unlimited public rooms and one-to-one chats, free forever. Private team plans start from $5 per user per month. No credit card required.
 
+## Reverse
+- [qira](http://qira.me/#) - QIRA is a timeless debugger. All state is tracked while a program is running, so you can debug in the past.
+
 ## AI
 - [圖靈機器人](http://www.tuling123.com/openapi/charges/neice_fu.html) - 賦予軟硬產品流暢自然的中文聊天能力。精準的語義分析，可正確識別用戶意圖。支持多種上下文結構，滿足連續對話及多重對話需要。基於DeepQA技術，匹敵人類回答問題能力。具備自學能力，產品越來越聰明
