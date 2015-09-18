@@ -45,6 +45,7 @@ This project collect all tools on every domain. All the tools or service here ar
 
 ## Version Control
 - [Phabricator](http://phabricator.org/) - Phabricator is a collection of open source web applications that help software companies build better software.
+- [git-deploy](https://github.com/mislav/git-deploy) - git deployment made easy
 
 ## Code Review
 - [Gerrit](https://www.gerritcodereview.com/) - Gerrit provides web based code review and repository management for the Git version control system.
