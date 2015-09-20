@@ -69,6 +69,7 @@ This project collect all tools on every domain. All the tools or service here ar
 ## Service Monitoring
 - [Prometheus](http://prometheus.io/) - An open-source service monitoring system and time series database.
 - [Sentry](https://getsentry.com/welcome/) - Sentry surfaces these errors, helps you gauge severity and frequency, and then gives you the information necessary to fix them quickly.
+- [fluentd](http://www.fluentd.org/) - Fluentd is an open source data collector for unified logging layer. Fluentd allows you to unify data collection and consumption for a better use and understanding of data.
 
 ## Chat
 - [Echoplexus](https://echoplex.us/) - Echoplexus is an anonymous, web-based, IRC-like chatting platform that makes its best effort to respect your privacy. It allows you to create public or private channels. You can secure a pseudonym for linkable anonymity, and secure it with PGP.
