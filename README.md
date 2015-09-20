@@ -7,6 +7,9 @@ This project collect all tools on every domain. All the tools or service here ar
 ## Backup
 - [bup](https://bup.github.io/) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images).
 
+## Object Store
+- [SeaweedFS](https://github.com/chrislusf/seaweedfs) - Seaweed-FS is a simple and highly scalable distributed file system. There are two objectives: to store billions of files! to serve the files fast! Instead of supporting full POSIX file system semantics, Seaweed-FS choose to implement only a key~file mapping. Similar to the word "NoSQL", you can call it as "NoFS".
+
 ## Terminal
 - [Babun](http://babun.github.io/) - a Windows shell you will love!
 
