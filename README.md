@@ -4,6 +4,9 @@ This project collect all tools on every domain. All the tools or service here ar
 ## Sync
 - [Osync](https://github.com/deajan/osync) - A robust two way (bidirectional) file sync script based on rsync with fault tolerance
 
+## Backup
+- [bup](https://bup.github.io/) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images).
+
 ## Terminal
 - [Babun](http://babun.github.io/) - a Windows shell you will love!
 
