@@ -85,6 +85,7 @@ This project collect all tools on every domain. All the tools or service here ar
 
 ## GTD
 - [Trello](https://trello.com/) - Trello is the free, flexible, and visual way to organize anything with anyone. Drop the lengthy email threads, out-of-date spreadsheets, no-longer-so-sticky notes, and clunky software for managing your projects. Trello lets you see everything about your project in a single glance.
+- [Taiga.Io](https://taiga.io/) - Free. Open Source. Powerful. Taiga is a project management platform for startups and agile developers & designers who want a simple, beautiful tool that makes work truly enjoyable.
 - [Restyaboard](http://restya.com/board/index.html) - Open source. Trello like kanban board. Based on Restya platform.
 - [Wekan](https://github.com/wekan/wekan) - Wekan is an open-source and collaborative kanban board application. Whether you're maintaining a personal todo list, planning your holidays with some friends, or working in a team on your next revolutionary idea, Kanban boards are an unbeatable tool to keep your things organized. They give you a visual overview of the current state of your project, and make you productive by allowing you to focus on the few items that matter the most.
 - [kanboard](http://kanboard.net/) - Kanboard is a project management software that use the Kanban methodology.
