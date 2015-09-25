@@ -3,6 +3,7 @@ This project collect all tools on every domain. All the tools or service here ar
 
 ## Sync
 - [Osync](https://github.com/deajan/osync) - A robust two way (bidirectional) file sync script based on rsync with fault tolerance
+- [FileBox](https://github.com/MaxLeapMobile/FileBox) - An Android File Sync Library with MaxLeap. Both client and server are available. Easy to build your own "Dropbox" with it.
 
 ## Backup
 - [bup](https://bup.github.io/) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images).
