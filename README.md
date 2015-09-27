@@ -9,7 +9,7 @@ This project collect all tools on every domain. All the tools or service here ar
 - [bup](https://bup.github.io/) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images).
 
 ## File Monitor
-- [fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple OS X File System Events API, *BSD kqueue, Linux inotify and a stat-based backend. http://emcrisostomo.github.io/fswatch/
+- [fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple OS X File System Events API, *BSD kqueue, Linux inotify and a stat-based backend.
 
 ## Object Store
 - [SeaweedFS](https://github.com/chrislusf/seaweedfs) - Seaweed-FS is a simple and highly scalable distributed file system. There are two objectives: to store billions of files! to serve the files fast! Instead of supporting full POSIX file system semantics, Seaweed-FS choose to implement only a key~file mapping. Similar to the word "NoSQL", you can call it as "NoFS".
@@ -76,7 +76,10 @@ This project collect all tools on every domain. All the tools or service here ar
 ## Service Monitoring
 - [Prometheus](http://prometheus.io/) - An open-source service monitoring system and time series database.
 - [Sentry](https://getsentry.com/welcome/) - Sentry surfaces these errors, helps you gauge severity and frequency, and then gives you the information necessary to fix them quickly.
+
+## Logging
 - [fluentd](http://www.fluentd.org/) - Fluentd is an open source data collector for unified logging layer. Fluentd allows you to unify data collection and consumption for a better use and understanding of data.
+- [BookKeeper](http://bookkeeper.apache.org/index.html) - BookKeeper is a replicated log service which can be used to build replicated state machines. A log contains a sequence of events which can be applied to a state machine. BookKeeper guarantees that each replica state machine will see all the same entries, in the same order.
 
 ## Chat
 - [Echoplexus](https://echoplex.us/) - Echoplexus is an anonymous, web-based, IRC-like chatting platform that makes its best effort to respect your privacy. It allows you to create public or private channels. You can secure a pseudonym for linkable anonymity, and secure it with PGP.
