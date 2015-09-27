@@ -1,6 +1,9 @@
 # Tool/Service List
 This project collect all tools on every domain. All the tools or service here are open sourced or providing free plan to use.
 
+## App Server
+-[OpenResty](http://openresty.org/) - OpenResty (aka. ngx_openresty) is a full-fledged web application server by bundling the standard Nginx core, lots of 3rd-party Nginx modules, as well as most of their external dependencies.
+
 ## Sync
 - [Osync](https://github.com/deajan/osync) - A robust two way (bidirectional) file sync script based on rsync with fault tolerance
 - [FileBox](https://github.com/MaxLeapMobile/FileBox) - An Android File Sync Library with MaxLeap. Both client and server are available. Easy to build your own "Dropbox" with it.
