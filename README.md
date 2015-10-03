@@ -14,6 +14,9 @@ This project collect all tools on every domain. All the tools or service here ar
 ## File Monitor
 - [fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple OS X File System Events API, *BSD kqueue, Linux inotify and a stat-based backend.
 
+## File Browser Extension
+- [Liferay Nativity](https://github.com/liferay/liferay-nativity) - Liferay Nativity is a cross-platform library for adding icon overlays and context menus to file browsers.
+
 ## Object Store
 - [SeaweedFS](https://github.com/chrislusf/seaweedfs) - Seaweed-FS is a simple and highly scalable distributed file system. There are two objectives: to store billions of files! to serve the files fast! Instead of supporting full POSIX file system semantics, Seaweed-FS choose to implement only a key~file mapping. Similar to the word "NoSQL", you can call it as "NoFS".
 
