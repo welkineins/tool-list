@@ -45,6 +45,7 @@ This project collect all tools on every domain. All the tools or service here ar
 ## Continuous Integration
 - [Bazel](http://bazel.io/) - Bazel is a build tool from Google that builds code quickly and reliably. We use it to build the majority of Google's software, and it's specifically designed to handle our huge source code repositories and our testing and release requirements.
 - [Strider](https://github.com/Strider-CD/strider/blob/master/README.md) - Strider is an Open Source Continuous Deployment / Continuous Integration platform. It is written in Node.JS / JavaScript and uses MongoDB as a backing store. It is published under the BSD license.
+- [TeamCity](https://www.jetbrains.com/teamcity/) - Powerful and user-friendly Continuous Integration and Deployment server that works out of the box
 
 ## Message Queue
 - [RabbitMQ](https://www.rabbitmq.com/) - RabbitMQ is a messaging broker - an intermediary for messaging. It gives your applications a common platform to send and receive messages, and your messages a safe place to live until received.
