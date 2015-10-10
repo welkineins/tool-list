@@ -90,6 +90,7 @@ speed at scale. Modern apps for both startups and the Fortune 100 require a high
 ## Service Monitoring
 - [Prometheus](http://prometheus.io/) - An open-source service monitoring system and time series database.
 - [Sentry](https://getsentry.com/welcome/) - Sentry surfaces these errors, helps you gauge severity and frequency, and then gives you the information necessary to fix them quickly.
+- [Skylight](https://www.skylight.io) - Skylight reports 95th percentile response times everywhere, giving you an accurate sense of what your customers are experiencing. It's performance data grounded in reality, not wishful thinking.
 
 ## Logging
 - [fluentd](http://www.fluentd.org/) - Fluentd is an open source data collector for unified logging layer. Fluentd allows you to unify data collection and consumption for a better use and understanding of data.
