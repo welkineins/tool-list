@@ -52,6 +52,7 @@ speed at scale. Modern apps for both startups and the Fortune 100 require a high
 - [Bazel](http://bazel.io/) - Bazel is a build tool from Google that builds code quickly and reliably. We use it to build the majority of Google's software, and it's specifically designed to handle our huge source code repositories and our testing and release requirements.
 - [Strider](https://github.com/Strider-CD/strider/blob/master/README.md) - Strider is an Open Source Continuous Deployment / Continuous Integration platform. It is written in Node.JS / JavaScript and uses MongoDB as a backing store. It is published under the BSD license.
 - [TeamCity](https://www.jetbrains.com/teamcity/) - Powerful and user-friendly Continuous Integration and Deployment server that works out of the box
+- [Code Climate](https://codeclimate.com/) - Merge with confidence. Automated code review that analyzes every commit, branch and pull request.
 
 ## Message Queue
 - [RabbitMQ](https://www.rabbitmq.com/) - RabbitMQ is a messaging broker - an intermediary for messaging. It gives your applications a common platform to send and receive messages, and your messages a safe place to live until received.
