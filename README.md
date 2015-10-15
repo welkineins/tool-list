@@ -106,6 +106,7 @@ speed at scale. Modern apps for both startups and the Fortune 100 require a high
 - [Unison](https://www.unison.com/pricing) - Unison is a much simpler way to do complex teamwork with distributed staff. Fast, private rooms, with instant awareness of where people are and what they're working on. 1:1 chat with text, voice and video. Integrations to plug in your key data like CRM.
 - [ChatGrape](https://chatgrape.com/) - "Grape me that file!" The world's smartest business chat that seamlessly connects your team and your company data.
 - [Gitter](https://gitter.im/) - Get unlimited public rooms and one-to-one chats, free forever. Private team plans start from $5 per user per month. No credit card required.
+- [Quip](https://quip.com/) - Create and communicate in one place. Quip is the modern productivity suite that helps your team get work done faster.
 
 ## GTD
 - [Trello](https://trello.com/) - Trello is the free, flexible, and visual way to organize anything with anyone. Drop the lengthy email threads, out-of-date spreadsheets, no-longer-so-sticky notes, and clunky software for managing your projects. Trello lets you see everything about your project in a single glance.
