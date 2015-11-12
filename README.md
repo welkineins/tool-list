@@ -33,6 +33,9 @@ This project collect all tools on every domain. All the tools or service here ar
 ## Database Proxy
 - [kingshard](https://github.com/flike/kingshard) - A high-performance proxy for MySQL powered by Go
 
+## Database Util
+- [SQLCipher](https://www.zetetic.net/sqlcipher/) - SQLCipher is an open source extension to SQLite that provides transparent 256-bit AES encryption of database files.
+
 ## NoSQL
 - [Redis](redis.io) - Redis is an open source (BSD licensed), in-memory data structure store, used as database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs and geospatial indexes with radius queries. Redis has built-in replication, Lua scripting, LRU eviction, transactions and different levels of on-disk persistence, and provides high availability via Redis Sentinel and automatic partitioning with Redis Cluster.
 - [Aerospike](http://www.aerospike.com/) - High performance NoSQL database delivering
