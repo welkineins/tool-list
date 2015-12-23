@@ -8,6 +8,7 @@ This project collect all tools on every domain. All the tools or service here ar
 - [Osync](https://github.com/deajan/osync) - A robust two way (bidirectional) file sync script based on rsync with fault tolerance
 - [FileBox](https://github.com/MaxLeapMobile/FileBox) - An Android File Sync Library with MaxLeap. Both client and server are available. Easy to build your own "Dropbox" with it.
 - [DAEMON Sync](http://daemonsync.me/home) - Introducing the first truly private cloud solution! Backup, sync, share and browse your photos or videos within the local wireless network. No internet access required! You don't need to register anywhere, don't need to enter your email or create login and password! Share your media files between Android and iOS devices, automatically sync with server in background, when you are connected the same Wi-Fi network. Simple and handy browsing mode allows you to preview files saved on server by you or other authorized users and download them to your device. Server app is required for proper operation.
+- [Kinto](http://kinto.readthedocs.org/en/latest/) - Kinto is a lightweight JSON storage service with synchronisation and sharing abilities.
 
 ## Backup
 - [bup](https://bup.github.io/) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images).
