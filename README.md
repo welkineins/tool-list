@@ -120,6 +120,9 @@ speed at scale. Modern apps for both startups and the Fortune 100 require a high
 - [Unison](https://www.unison.com/pricing) - Unison is a much simpler way to do complex teamwork with distributed staff. Fast, private rooms, with instant awareness of where people are and what they're working on. 1:1 chat with text, voice and video. Integrations to plug in your key data like CRM.
 - [ChatGrape](https://chatgrape.com/) - "Grape me that file!" The world's smartest business chat that seamlessly connects your team and your company data.
 - [Gitter](https://gitter.im/) - Get unlimited public rooms and one-to-one chats, free forever. Private team plans start from $5 per user per month. No credit card required.
+- [Slack](https://slack.com/) - Slack brings all your communication together in one place. It's real-time messaging, archiving and search for modern teams.
+- [HipChat](https://www.hipchat.com/) - HipChat is hosted group chat and video chat built for teams. Supercharge real-time collaboration with persistent chat rooms, file sharing, and screen sharing.
+- [Quip](https://quip.com/) - Create and communicate in one place. Quip is the modern productivity suite that helps your team get work done faster.
 
 ## GTD
 - [Trello](https://trello.com/) - Trello is the free, flexible, and visual way to organize anything with anyone. Drop the lengthy email threads, out-of-date spreadsheets, no-longer-so-sticky notes, and clunky software for managing your projects. Trello lets you see everything about your project in a single glance.
@@ -130,9 +133,12 @@ speed at scale. Modern apps for both startups and the Fortune 100 require a high
 - [TaskBoard](http://taskboard.matthewross.me/) - A Kanban-inspired app for keeping track of things that need to get done. The goal of TaskBoard is to provide a simple and clean interface to a functional and minimal application for keeping track of tasks. It's not trying to be the next Trello or LeanKit.
 
 ## Collaboration
-- [Quip](https://quip.com/) - Create and communicate in one place. Quip is the modern productivity suite that helps your team get work done faster.
+- [asana](https://asana.com/#close) - Asana is the easiest way for teams to track their work—and get results.
 - [Worktile](https://worktile.com/) - 萊特兄弟使用 Worktile 規劃產品設計, 將有更高的效率.
 - [tower](https://tower.im/) - 你的網上辦公室. 紅杉資本領投，十七萬團隊入駐
+- [teambition](https://www.teambition.com/) - Teambition 是一個簡單，高效的項目協作工具，你可以在這裡管理項目，跟蹤任務進度，存儲項目文件，讓你的團隊協作更高效。
+- [team+](http://www.teamplus.com.tw/) - 獲得國家獎項肯定、最多知名企業導入使用的team+私有雲企業即時通訊app， 符合企業對資安與內控的嚴格要求，是有效提升團隊溝通效率與競爭力的最佳解決方案 ...
+- [chatwork](http://www.chatwork.com/) - ChatWork是為了加快您的企業腳步而誕生的雲端會議室。
 
 ## Reverse
 - [qira](http://qira.me/#) - QIRA is a timeless debugger. All state is tracked while a program is running, so you can debug in the past.
