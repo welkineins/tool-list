@@ -139,6 +139,7 @@ speed at scale. Modern apps for both startups and the Fortune 100 require a high
 - [teambition](https://www.teambition.com/) - Teambition 是一個簡單，高效的項目協作工具，你可以在這裡管理項目，跟蹤任務進度，存儲項目文件，讓你的團隊協作更高效。
 - [team+](http://www.teamplus.com.tw/) - 獲得國家獎項肯定、最多知名企業導入使用的team+私有雲企業即時通訊app， 符合企業對資安與內控的嚴格要求，是有效提升團隊溝通效率與競爭力的最佳解決方案 ...
 - [chatwork](http://www.chatwork.com/) - ChatWork是為了加快您的企業腳步而誕生的雲端會議室。
+- [JANDI](https://www.jandi.com/landing/#/zh-tw) - 合作無間・溝通無限 - 溝通、管理、協作 一次搞定辦公室大小事
 
 ## Reverse
 - [qira](http://qira.me/#) - QIRA is a timeless debugger. All state is tracked while a program is running, so you can debug in the past.
