@@ -41,6 +41,7 @@ This project collect all tools on every domain. All the tools or service here ar
 - [Redis](redis.io) - Redis is an open source (BSD licensed), in-memory data structure store, used as database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs and geospatial indexes with radius queries. Redis has built-in replication, Lua scripting, LRU eviction, transactions and different levels of on-disk persistence, and provides high availability via Redis Sentinel and automatic partitioning with Redis Cluster.
 - [Aerospike](http://www.aerospike.com/) - High performance NoSQL database delivering
 speed at scale. Modern apps for both startups and the Fortune 100 require a high performance database. Whether you are building new category defining apps or reimagining legacy apps to take advantage of more data for better outcomes, Aerospike is the only database that delivers both speed and scale.
+- [RocksDB](http://rocksdb.org/) - RocksDB is an embeddable persistent key-value store for fast storage. RocksDB can also be the foundation for a client-server database but our current focus is on embedded workloads.
 
 ## Workflow
 - [Pomodone](http://pomodoneapp.com/) - Pomodone is the easiest way to track your workflow using Pomodoro technique, on top of your current task management service.
