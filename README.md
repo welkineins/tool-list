@@ -60,6 +60,9 @@ speed at scale. Modern apps for both startups and the Fortune 100 require a high
 ## IT Management
 - [Consul](https://www.consul.io/) - Service discovery and configuration made easy. Distributed, highly available, and datacenter-aware.
 
+## Serivce Control
+- [Supervisor](http://supervisord.org/) - Supervisor is a client/server system that allows its users to monitor and control a number of processes on UNIX-like operating systems.
+
 ## Continuous Integration
 - [Bazel](http://bazel.io/) - Bazel is a build tool from Google that builds code quickly and reliably. We use it to build the majority of Google's software, and it's specifically designed to handle our huge source code repositories and our testing and release requirements.
 - [Strider](https://github.com/Strider-CD/strider/blob/master/README.md) - Strider is an Open Source Continuous Deployment / Continuous Integration platform. It is written in Node.JS / JavaScript and uses MongoDB as a backing store. It is published under the BSD license.
