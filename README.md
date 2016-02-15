@@ -104,6 +104,7 @@ speed at scale. Modern apps for both startups and the Fortune 100 require a high
 - [Ansible](http://www.ansible.com/home) - Deploy apps. Manage systems. Crush complexity. Ansible is a powerful automation tool that you can learn quickly.
 - [Vagrant](https://www.vagrantup.com/) - Create and configure lightweight, reproducible, and portable development environments.
 - [Fabric](http://www.fabfile.org/) - Fabric is a Python (2.5-2.7) library and command-line tool for streamlining the use of SSH for application deployment or systems administration tasks.
+- [Pupy](https://github.com/n1nj4sec/pupy) - Pupy is an opensource, multi-platform (Windows, Linux, OSX, Android) Remote Administration Tool with an embedded Python interpreter.
 
 ## Presentation/Slide
 - [Prezi](https://prezi.com/) - Prezi is cloud-based, meaning you can present from your browser, desktop, iPad, iPhone, or Android device and always have the latest version of your work at your fingertips. Create or edit on the go, then auto-sync across all your devices with ease.
