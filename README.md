@@ -72,6 +72,9 @@ speed at scale. Modern apps for both startups and the Fortune 100 require a high
 ## Message Queue
 - [RabbitMQ](https://www.rabbitmq.com/) - RabbitMQ is a messaging broker - an intermediary for messaging. It gives your applications a common platform to send and receive messages, and your messages a safe place to live until received.
 
+## Task Queue
+- [Celery](http://www.celeryproject.org/) - Celery is an asynchronous task queue/job queue based on distributed message passing. It is focused on real-time operation, but supports scheduling as well.
+
 ## API
 - [RAML](http://raml.org/) - RESTful API Modeling Language (RAML) is a simple and succinct way of describing practically-RESTful APIs. It encourages reuse, enables discovery and pattern-sharing, and aims for merit-based emergence of best practices. The goal is to help our current API ecosystem by solving immediate problems and then encourage ever-better API patterns. RAML is built on broadly-used standards such as YAML and JSON and is a non-proprietary, vendor-neutral open spec.
 
