@@ -13,6 +13,9 @@ This project collect all tools on every domain. All the tools or service here ar
 ## Backup
 - [bup](https://bup.github.io/) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images).
 
+## Cloud Storage
+- [pCloud](https://www.pcloud.com/zh/) - pCloud is your personal online storage space for your memorable photos and videos, your favorite music or important work documents.
+
 ## File Monitor
 - [fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple OS X File System Events API, *BSD kqueue, Linux inotify and a stat-based backend.
 
