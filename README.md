@@ -75,6 +75,7 @@ speed at scale. Modern apps for both startups and the Fortune 100 require a high
 - [Strider](https://github.com/Strider-CD/strider/blob/master/README.md) - Strider is an Open Source Continuous Deployment / Continuous Integration platform. It is written in Node.JS / JavaScript and uses MongoDB as a backing store. It is published under the BSD license.
 - [TeamCity](https://www.jetbrains.com/teamcity/) - Powerful and user-friendly Continuous Integration and Deployment server that works out of the box
 - [Code Climate](https://codeclimate.com/) - Merge with confidence. Automated code review that analyzes every commit, branch and pull request.
+- [fabric8](https://fabric8.io/) - fabric8 is an opinionated and open source Integrated Developer Platform for the Continuous Delivery of Microservices using Kubernetes and Jenkins
 
 ## CMS
 - [Grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS http://getgrav.org
