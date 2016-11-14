@@ -59,6 +59,7 @@ speed at scale. Modern apps for both startups and the Fortune 100 require a high
 ## Proxy
 - [ngrok](https://ngrok.com/) - ngrok secure introspectable tunnels to localhost webhook development tool and debugging tool.
 - [MxTunnel](https://barracudadrive.com/MxTunnel.lsp) - The MxTunnel provides peace of mind in a dangerous world. Our software will ensure your online privacy as well as provide secure, unblocked, encrypted access to the Internet and VoIP services such as Skype from anywhere on the globe.
+- [NIP.IO](http://nip.io/) - Dead simple wildcard DNS for any IP Address
 
 ## Netboot
 - [netboot.xyz](http://netboot.xyz/) - netboot.xyz is a way to select various operating system installers or utilities from one place within the BIOS without the need of having to go retrieve the media to run the tool. iPXE is used to provide a user friendly menu from within the BIOS that lets you easily choose the OS you want along with any specific types of versions or bootable flags.
