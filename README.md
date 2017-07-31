@@ -78,6 +78,7 @@ speed at scale. Modern apps for both startups and the Fortune 100 require a high
 - [Code Climate](https://codeclimate.com/) - Merge with confidence. Automated code review that analyzes every commit, branch and pull request.
 - [fabric8](https://fabric8.io/) - fabric8 is an opinionated and open source Integrated Developer Platform for the Continuous Delivery of Microservices using Kubernetes and Jenkins
 - [AppVeyor](https://www.appveyor.com/) - #1 Continuous Delivery service for Windows. Your new build server in a cloud. Start in minutes. Enjoy faster results.
+- (Bazel)[https://www.bazel.build/] - {Fast, Correct} - Choose two. Build and test software of any size, quickly and reliably.
 
 ## CMS
 - [Grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS http://getgrav.org
