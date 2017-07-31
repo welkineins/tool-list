@@ -179,3 +179,6 @@ speed at scale. Modern apps for both startups and the Fortune 100 require a high
 		
 ## Social Network
 - [Buffer](https://buffer.com/) - A better way to share on social media. Social media management for marketers and agencies
+
+## Virtualization
+- [Packer](https://www.packer.io/) - Packer is easy to use and automates the creation of any type of machine image. It embraces modern configuration management by encouraging you to use automated scripts to install and configure the software within your Packer-made images.
